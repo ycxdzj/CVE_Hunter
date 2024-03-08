@@ -4,7 +4,7 @@
 
 The Petrol pump management System in PHP Free Source Code (It is an open source project from [https://codeastro.com/](https://codeastro.com/)) has SQL injection vulnerabilities, which can lead to database information leakage.
 
-1. BUG_Author:
+1. BUG_Author: hjhctzz
 2. vendors: [https://codeastro.com/membership-management-system-in-php-with-source-code/](https://www.sourcecodester.com/php/17180/petrol-pump-management-software-free-download.html);
 3. The program is built using the PHP 7.3.4nts version;
 4. Vulnerability location: /admin/app/login_crud.php
@@ -39,4 +39,5 @@ email=mayuri.infospace%40gmail.com'and/**/extractvalue(1,concat(char(126),user()
 
 Build the vulnerability environment according to the steps provided by the source code author and execute the poc provided above：
 
-​![image](assets/image-20240227223654-j5aegt4.png)​
+​![image-20240227223654-j5aegt4](https://github.com/ycxdzj/CVE_Hunter/assets/159221768/0e68ddf2-2eac-47e0-bd4a-2cea9fc46b55)
+
