@@ -35,4 +35,5 @@ Connection: close
 
 Build the vulnerability environment according to the steps provided by the source code author and execute the poc provided above：
 
-​![image](assets/image-20240313104308-52wr49k.png)​
+​![image-20240313104308-52wr49k](https://github.com/ycxdzj/CVE_Hunter/assets/159221768/ea05ecb7-f286-4c69-8f6d-50d207d58e2f)
+
