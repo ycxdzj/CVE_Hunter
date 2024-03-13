@@ -34,5 +34,5 @@ Upgrade-Insecure-Requests: 1
 ## How to verify
 
 Build the vulnerability environment according to the steps provided by the source code author and execute the poc provided above：
+![image-20240313153721-dnpqayy](https://github.com/ycxdzj/CVE_Hunter/assets/159221768/7659c8b1-f8a8-4fcc-879f-269429faf657)
 
-​![image](assets/image-20240313153721-dnpqayy.png)​
