@@ -4,7 +4,7 @@
 
 The best-pos-management-system-php in PHP Free Source Code (It is an open source project from [www.sourcecodester.com](www.sourcecodester.com)) has SQL injection vulnerabilities, which can lead to database information leakage.
 
-1. BUG_Author:
+1. BUG_Author: hjhctzz
 2. vendors: [https://www.sourcecodester.com/php/16127/best-pos-management-system-php.html](https://www.sourcecodester.com/php/16127/best-pos-management-system-php.html)
 3. The program is built using the PHP 7.3.4nts version;
 4. Vulnerability location: /manage_user.php
