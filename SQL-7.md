@@ -61,7 +61,8 @@ aaaa
 ## How to verify
 
 Build the vulnerability environment according to the steps provided by the source code author and execute the poc provided above：
+![image-20240401093600-3wu5ehz](https://github.com/ycxdzj/CVE_Hunter/assets/159221768/d26c42db-8db7-45fb-977a-ef6bdba5adda)
 
-​![image](assets/image-20240401093600-3wu5ehz.png)​
+​
 
 ‍
